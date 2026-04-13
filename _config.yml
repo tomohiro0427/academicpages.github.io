@@ -26,11 +26,11 @@ author:
   avatar           : "my_profile.jpg"
   name             : "Tomohiro Aizawa"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : 'PhD student, <a href="https://cgulab.com/">CMILab</a> at University of Fukui'
   location         : "Japan"
   employer         : "University of Fukui"
   uri              : # URL
-  email            : "tomohiro130427@gmail.com" 
+  email            : "[EMAIL_ADDRESS]" 
 
   # Academic websites
   academia         : # URL
