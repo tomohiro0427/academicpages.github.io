@@ -21,13 +21,13 @@ E-mail: a26004t@g.u-fukui.ac.jp
       <img src="/images/Aizawa_PR2026.png" alt="project image" style="border-style: none; width: 120%;">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-      <a href="https://tomohiro0427.github.io/SEN-Towards-consistent-sketch-guided-local-3D-shape-editing/"><strong>Towards consistent sketch-guided local 3D shape editing</strong></a>
+      <a href="https://tomohiro0427.github.io/SEN/"><strong>Towards consistent sketch-guided local 3D shape editing</strong></a>
       <br>
       Tomohiro Aizawa, Chunzhi Gu, Shigeru Kuriyama
       <br>
       <em>Pattern Recognition</em>
       <br>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0031320326000580">Paper</a> | <a href="https://tomohiro0427.github.io/SEN-Towards-consistent-sketch-guided-local-3D-shape-editing/">Project Page</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0031320326000580">Paper</a> | <a href="https://tomohiro0427.github.io/SEN/">Project Page</a>
     </td>
   </tr>
 </tbody></table>
