@@ -32,7 +32,8 @@ E-mail: a26004t@g.u-fukui.ac.jp
   </tr>
 </tbody></table>
 
-## Domestic Conferences
+<details markdown="1">
+<summary><h2 style="display:inline-block;margin:0.67em 0;cursor:pointer;">Conferences</h2></summary>
 
 ### 2026
 * **會澤智大**，顧淳祉，栗山繁：「3D 形状への自然付着物生成と表面スタイル変換の統合モデル」，情報処理学会 第 88 回全国大会，7W-02，2026/3
@@ -46,7 +47,13 @@ E-mail: a26004t@g.u-fukui.ac.jp
 ### 2024
 * **會澤智大**，高橋遼，顧淳祉，栗山繁：「Canonical 変分オートエンコーダを用いた点群復元」，情報処理学会 第 86 回全国大会，2P-06，2024/3
 
-## Awards
+</details>
+
+<details markdown="1">
+<summary><h2 style="display:inline-block;margin:0.67em 0;cursor:pointer;">Awards</h2></summary>
+
 * **T. Aizawa**: IEEE Nagoya Section，2025，Excellent Student Award
 * 加藤拓朗，**會澤智大**，顧淳祉，栗山繁：「構造不一致な参照画像ペアに対応可能な文脈内学習画像編集」，Visual Computing 2025，学生奨励賞
 * **會澤智大**：映像情報メディア学会北陸支部，2022，優秀学生賞
+
+</details>
